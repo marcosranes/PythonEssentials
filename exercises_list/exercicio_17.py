@@ -8,6 +8,7 @@ Informe ao usuário as quantidades de tinta a serem compradas e os respectivos p
     Misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde
     os valores para cima, isto é, considere latas cheias.
 """
+# from math import ceil, floor
 
 
 def calcular_metros_quadrados(x, y):
